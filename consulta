@@ -18,7 +18,7 @@
                   <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                       <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Pagina Inicial</a>
+                        <a class="nav-link active" aria-current="page" href="index.html">Pagina Inicial</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="contatos.html">Contatos</a>
@@ -58,7 +58,7 @@
                     <h5>escolha a cor</h5>
                   </div>
                   <div class="col">
-                    <br><br><br>
+                    <br><br>
                     <input>
                     <br><br><br>
                     <input>
@@ -66,8 +66,6 @@
                     </div>
                   <div class="col">
                     <br><br><br>
-                    
-                    <br><br><br><br>
                     <button type="button" class="btn btn-Danger">Finalizar Compra</button>
                   </div>
                 </div>
